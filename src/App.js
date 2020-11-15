@@ -23,7 +23,7 @@ function App() {
           <Route path='/search'>
             <SearchPage />
           </Route>
-          <Route path='/'>
+          <Route exact path='/'>
             <Header />
             <Home />
           </Route>
@@ -31,7 +31,6 @@ function App() {
         <Footer />
       </div>
     </Router>
-    
   );
 }
 
