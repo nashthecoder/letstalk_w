@@ -58,7 +58,7 @@ diagram to map out the data relationship. WORK IN PROGRESS
 ##Technologies Used
 1. React JS 
 2. Firebase
-
+3. Semantic UI React
 
 
 [Project Link on Github](https://github.com/users/nashthecoder/projects/2)
