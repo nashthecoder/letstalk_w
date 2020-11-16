@@ -7,6 +7,7 @@ import Profile from './components/Profile';
 import SearchPage from './components/SearchPage';
 import Chat from './components/Chat';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import './firebase/config';
 
 function App() {
   return (
