@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# letsTalk_w
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![Let's Talk](assets/lets_talk_logo.png)
 
-In the project directory, you can run:
+___
 
-### `yarn start`
+## Description: 
+![afya](assets/afya_logo.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+*A reproductive health app will allow users to:*
+1. READ information on SRH 
+2. FIND links to service providers
+3. ASK questions to counsellors on platform
+4. SHARE experiences with each other.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## STEPS
 
-### `yarn test`
+### Ideation stage:
+* Source an idea and refine it. DONE
+* Market research SKIPPED
+* Define functionality DONE
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Design stage:
+* Sketch the web app DONE
+* Plan the workflow DONE
+* Wireframe the UI DONE
+* Seek early validation SKIPPED
 
-### `yarn build`
+### Development stage: 
+* Architect the database - an ERM (Entity-Relationship Model) 
+diagram to map out the data relationship. WORK IN PROGRESS 
+* Develop the frontend - WORK IN PROGRESS 
+* Build the backend
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Launch stage:
+* Host the web app
+* Deploy the web app
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## App UI Sketches
+![App UI Overview](assets/lets_talk_ui.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### App UI Pages
+![Homepage](assets/home_page.jpg)
+![Find page](assets/find_page.jpg)
+![Login/SignUp page ](assets/login_page.jpg)
+![Ask me page](assets/ask_me.jpg)
+![User profile page](assets/user_profile.jpg)
 
-### `yarn eject`
+## Color Palettes 
+#### *[Tool used - Color Space](https://mycolor.space/)*
+![App Colors - Lets Talk](assets/lt_colors_scheme2.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## App UI Figma Designs 
+![Final UI](assets/letstalk_final_UI.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+##Technologies Used
+1. React JS 
+2. Firebase
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Project Link on Github](https://github.com/users/nashthecoder/projects/2)
+## Technologies Used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Developer: NashTheCoder*
