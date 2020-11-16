@@ -21,9 +21,9 @@ function Login() {
                     <div className="right__grid">
                     <div className="right__div">
                     <img className='login_logo' src='../images/lets_talk_logo.png' alt=""/>
-                        <form className='form_fields'>
-                            <input type='text' placeholder='Email'/>
-                            <input type='password' placeholder='Password'/>
+                        <form>
+                            <input className='text__field' type='text' placeholder='Email'/>
+                            <input className='pass__field' type='password' placeholder='Password'/>
                         </form>
                             <button className='submit__btn' type='submit'>Login</button>
                             <button className='submit__btn' type='submit'>Sign Up</button>
