@@ -1,12 +1,12 @@
 # letsTalk_w
 
 
-![Let's Talk](images/lets_talk_logo.png)
+![Let's Talk](public/images/lets_talk_logo.png)
 
 ___
 
 ## Description: 
-![afya](images/afya_logo.png)
+![afya](public/images/afya_logo.png)
 
 *A reproductive health app will allow users to:*
 1. READ information on SRH 
@@ -38,22 +38,22 @@ diagram to map out the data relationship. WORK IN PROGRESS
 * Deploy the web app
 
 ## App UI Sketches
-![App UI Overview](images/lets_talk_ui.png)
+![App UI Overview](public/images/lets_talk_ui.png)
 
 ### App UI Pages
-![Homepage](images/home_page.jpg)
-![Find page](images/find_page.jpg)
-![Login/SignUp page ](images/login_page.jpg)
-![Ask me page](images/ask_me.jpg)
-![User profile page](images/user_profile.jpg)
+![Homepage](public/images/home_page.jpg)
+![Find page](public/images/find_page.jpg)
+![Login/SignUp page ](public/images/login_page.jpg)
+![Ask me page](public/images/ask_me.jpg)
+![User profile page](public/images/user_profile.jpg)
 
 ## Color Palettes 
 #### *[Tool used - Color Space](https://mycolor.space/)*
-![App Colors - Lets Talk](images/lt_colors_scheme2.png)
+![App Colors - Lets Talk](public/images/lt_colors_scheme2.png)
 
 
 ## App UI Figma Designs 
-![Final UI](images/letstalk_final_UI.png)
+![Final UI](public/images/letstalk_final_UI.png)
 
 ##Technologies Used
 1. React JS 
