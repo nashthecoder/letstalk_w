@@ -49,10 +49,10 @@ function Login() {
                                         <input type="password" name="password" placeholder="Password" />
                                     </label>
                                     </div>
-                                <button className="ui primary button login" type="submit">
+                                <button className="ui teal button login" type="submit">
                                 Sign Up
                                 </button>
-                                <button className="ui primary button login" type="submit">
+                                <button className="ui teal button login" type="submit">
                                 Login
                                 </button>
                             </form>
